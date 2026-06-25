@@ -18,7 +18,7 @@ Inspired by vampire survivors but whoa, you're on a boat. Z changes what mode yo
 
 ---
 
-## Demake project: [Slay The NES]([https://leorothenberg.github.io/slaytheNES](https://8bitworkshop.com/redir.html?platform=nes&github=leorothenberg/slaytheNES))
+## Demake project: [Slay The NES](https://8bitworkshop.com/redir.html?platform=nes&github=leorothenberg/slaytheNES)
 
 This is a demake of slay the spire written in c for the NES. It runs on the NES emulator JSNES and is more of a wave version of the game. The amount of restrictions and struggles with this one were crazy but in the end we handled deck management, sprites, and not having things crash the whole time. The game also fits inside the 40 KB rom which is just kind of awesome. 
 

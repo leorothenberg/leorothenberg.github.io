@@ -16,5 +16,10 @@ Not going to get too into it but this is a tic80 remake of the Atari game Krull.
 
 Inspired by vampire survivors but whoa, you're on a boat. Z changes what mode you are in, sailing or rowing mode and besides that it is simply the arrow keys. Level up and get upgrades. Currently the only weapon is a cannon but this is certainly the game where the most future work could be done. The framework for adding any number of upgrades is there and maybe balancing some things would be helpful. Due to the deadline on this project there are some slight bugs that we love to call features such as turrets in water and the respawning of all enemies each level up. This project was awesome to work on since we got to design our own way to generate terrain, work on the art style, work on an upgrade system, manage a ever growing number of enemies, and thanks to my goat liam, have realistic sailing physics and an auto-optimizing sail angle. 
 
+---
+
+## Demake project: [Slay The NES](https://leorothenberg.github.io/slaytheNES)
+
+This is a demake of slay the spire written in c for the NES. It runs on the NES emulator JSNES and is more of a wave version of the game. The amount of restrictions and struggles with this one were crazy but in the end we handled deck management, sprites, and not having things crash the whole time. The game also fits inside the 40 KB rom which is just kind of awesome. 
 
 

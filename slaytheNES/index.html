@@ -1,25 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My NES Game</title>
-  <script src="https://unpkg.com/jsnes@2/dist/jsnes.min.js"></script>
+    <title>Slay The NES</title>
+    <style>
+        body { margin: 0; display: flex; justify-content: center; align-items: center; height: 100vh; background: #000; }
+        iframe { border: none; width: 100%; height: 100%; }
+    </style>
 </head>
 <body>
-  <div id="nes" style="margin: auto; width: 512px; height: 480px;"></div>
-  <p>
-    D-Pad: Arrow keys | Start: Enter | Select: Right Ctrl | A: X | B: Z
-  </p>
-
-  <script>
-    var browser = new jsnes.Browser({
-      container: document.getElementById("nes"),
-      onError: function(e) { console.error(e); }
-    });
-
-    jsnes.Browser.loadROMFromURL("slaytheNES.nes", function(err, data) {
-      if (err) { console.error(err); return; }
-      browser.loadROM(data);
-    });
-  </script>
+    <!-- Paste the 8bitworkshop iframe below -->
+<iframe src="https://8bitworkshop.com/redir.html?platform=nes&github=leorothenberg/slaytheNES" 
+        style="width:100%; height:100%; border:none;" 
+        allowfullscreen>
+</iframe>   
 </body>
-</html>
+</html>   

@@ -22,4 +22,11 @@ Inspired by vampire survivors but whoa, you're on a boat. Z changes what mode yo
 
 This is a demake of slay the spire written in c for the NES. It runs on the NES emulator JSNES and is more of a wave version of the game. The amount of restrictions and struggles with this one were crazy but in the end we handled deck management, sprites, and not having things crash the whole time. The game also fits inside the 40 KB rom which is just kind of awesome. 
 
+---
+
+# Personal Projects
+
+## Demake project: [Poor Calder](https://leorothenberg.github.io/poor_clader))
+
+#TODO Made for friend clader, not done at all but has cool settings screen with M and the movement I like a lot as well as the home screen.
 

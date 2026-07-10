@@ -26,7 +26,7 @@ This is a demake of slay the spire written in c for the NES. It runs on the NES 
 
 # Personal Projects
 
-## Demake project: [Poor Calder](https://leorothenberg.github.io/poor_clader))
+## Demake project: [Poor Calder](https://leorothenberg.github.io/poor_calder)
 
 #TODO Made for friend clader, not done at all but has cool settings screen with M and the movement I like a lot as well as the home screen.
 
